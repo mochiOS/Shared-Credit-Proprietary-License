@@ -11,3 +11,13 @@
     "Contributor": Refers to any individual or entity that, with the consent of the Owner, provides modifications, additions, documentation, or other improvements (hereinafter "Contributions") to the Software.
 
     "User": Refers to any individual or entity that views, clone, or uses the Software for private purposes.
+
+2. Ownership and Restrictions
+    Redistribution, publication, or sale of any part of the Software to any third party is prohibited without the Owner's permission.
+
+    Duplication of the Software (including but not limited to forking, cloning, or copying by any means) is permitted only if:
+
+        1. The intent is to contribute to the development or improvement of this Software; or
+        2. The duplicate is for private use and is not made available to any third party.
+
+    Any form of duplication intended for independent distribution or re-publishing, without the intent to contribute to this project, is strictly prohibited regardless of the platform, medium, or method used.
