@@ -1,21 +1,23 @@
 # Shared-Credit Proprietary License (SCPL)
 
-### 概要
+### Overview
 
-Shared-Credit Proprietary License (SCPL) は、個人開発者が自身の著作権を保護しながら、外部からの協力と貢献を募るために設計されたライセンスです。
+The Shared-Credit Proprietary License (SCPL) is designed for individual developers to solicit external collaboration and contributions while maintaining full protection of their own copyright.
 
-### 目的
+### Objectives
 
-1. **知的財産の保護**: 作者が全権利を保持し、無断での商用利用や再配布を制限します。
-2. **貢献者の功績保証**: プロジェクトへの協力者の名前と功績を公式に記録し、尊重することを義務付けます。
-3. **協力者の権利維持**: 協力者が自身で作成・提供したコードについて、その後の利用を制限されることはありません。
+1. **Protection of Intellectual Property**: The author retains all rights, restricting unauthorized commercial use or redistribution.
+2. **Guarantee of Contributor Credit**: Mandates that the names and achievements of project collaborators are officially recorded and respected.
+3. **Preservation of Contributor Rights**: Ensures that collaborators are never restricted from using the specific code they personally created and provided.
 
-### 既存ライセンスとの違い
+### Differences from Existing Licenses
 
-一般的なオープンソースライセンス（MIT, Apache等）は自由な再利用を前提としていますが、SCPLは著作権の保留（All Rights Reserved）を基本とした上で、協力者へのリスペクトとクレジット共有に特化しています。
+While common open-source licenses (such as MIT or Apache) are predicated on the premise of free reuse, the SCPL is based on a "All Rights Reserved" foundation, specifically emphasizing respect for contributors and the sharing of credit.
 
-### 利用方法
+### How to Use
 
-1. このリポジトリから`LICENSE`ファイルをコピーします。
-2. ファイル内の `[Owner]` と `[Year]` を自身の情報に書き換えてください。
-3. 自身のリポジトリのルートディレクトリに配置してください。
+1. Copy the `LICENSE` file from this repository.
+2. Replace `[Owner]` and `[Year]` within the file with your own information.
+3. Place the file in the root directory of your repository.
+
+Copyright (c) 2026 tas0dev
