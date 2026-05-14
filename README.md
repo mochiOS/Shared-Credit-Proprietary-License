@@ -19,5 +19,3 @@ Shared-Credit Proprietary License (SCPL) は、個人開発者が自身の著作
 1. このリポジトリから`LICENSE`ファイルをコピーします。
 2. ファイル内の `[Copyright Holder]` と `[Year]` を自身の情報に書き換えてください。
 3. 自身のリポジトリのルートディレクトリに配置してください。
-
-Copyright (c) 2026 tas0dev
