@@ -17,20 +17,20 @@
 
     Duplication of the Software (including but not limited to forking, cloning, or copying by any means) is permitted only if:
 
-        1. The intent is to contribute to the development or improvement of this Software; or
+        (a) The intent is to contribute to the development or improvement of this Software; or
 
-        2. The duplicate is for private use and is not made available to any third party.
+        (b) The duplicate is for private use and is not made available to any third party.
 
     Any form of duplication intended for independent distribution or re-publishing, without the intent to contribute to this project, is strictly prohibited regardless of the platform, medium, or method used.
 
 3. Contributor Rights
     The Owner acknowledges that the value of this Software is enhanced by the community. To honor those who help, the following rights are granted to Contributors:
 
-        1. Right to Attribution: The Owner shall permanently display the Contributor's name or account identifier in an appropriate location within the Software (e.g., a Contributors file, readme, or source code comments) to officially recognize their work.
+        (a) Right to Attribution: The Owner shall permanently display the Contributor's name or account identifier in an appropriate location within the Software (e.g., a Contributors file, readme, or source code comments) to officially recognize their work.
 
-        2. Independence of Authored Work: Each Contributor retains the full right to use, modify, and redistribute the specific portions of the code they authored. This right is independent of this License, and the Contributor does not require the Owner's permission to use their own original work elsewhere.
+        (b) Independence of Authored Work: Each Contributor retains the full right to use, modify, and redistribute the specific portions of the code they authored. This right is independent of this License, and the Contributor does not require the Owner's permission to use their own original work elsewhere.
 
-        3. License Grant to Owner: By providing a Contribution, the Contributor grants the Owner a non-exclusive, royalty-free, and perpetual license to use, modify, and distribute said Contribution as part of the Software under the terms of this License.
+        (c) License Grant to Owner: By providing a Contribution, the Contributor grants the Owner a non-exclusive, royalty-free, and perpetual license to use, modify, and distribute said Contribution as part of the Software under the terms of this License.
 
 4. Disclaimer
     The Software is provided "as is", without warranty of any kind. In no event shall the Owner or Contributors be liable for any claim, damages, or other liability arising from the use of the Software.
